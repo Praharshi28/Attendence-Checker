@@ -22,3 +22,35 @@ Frontend: HTML, CSS, JavaScript
 Backend: N/A (or Node.js, Python Flask, etc. — if it’s a full-stack app)
 
 Storage: LocalStorage / JSON / SQLite (if applicable)
+
+🧮 How It Works
+
+Input Total Classes - Total number of sessions held
+
+Input Classes Attended - Number of sessions you attended
+
+Set Minimum Attendance % - Usually 75%, 80%, or custom
+
+Calculate - View your current percentage and get advice:
+
+How many more can be missed?
+
+How many must you attend?
+
+🧑‍🏫 Use Cases
+
+📚 Students tracking class attendance
+
+🧑‍🏫 Teachers checking compliance with academic regulations
+
+🏢 Employees or HR for attendance compliance
+
+🛠️ Customization
+
+You can easily modify:
+
+Target attendance percentage
+
+UI themes
+
+Data persistence (add local storage or DB)
